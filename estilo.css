@@ -1,0 +1,6 @@
+.tabela{
+   border: 1px solid black;
+}
+.tabela td{
+   text-align: right;
+}
